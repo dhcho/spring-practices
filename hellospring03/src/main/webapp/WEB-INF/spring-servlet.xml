@@ -16,7 +16,7 @@
 	<mvc:interceptors>
 		<mvc:interceptor>
 			<mvc:mapping path="/board/**" />
-			<bean class="com.douzone.hellospring.interceptor.MyInterceptor01" />
+			<bean class="com.douzone.hellospring.interceptor.MyInterceptor02" />
 		</mvc:interceptor>
 	</mvc:interceptors>
 
